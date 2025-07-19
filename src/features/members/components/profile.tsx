@@ -3,7 +3,6 @@ import { Id } from "../../../../convex/_generated/dataModel";
 import { useGetMemberSingle } from "../api/use-get-memberSingle";
 import {
   AlertTriangle,
-  ChevronDown,
   ChevronDownIcon,
   Loader,
   MailIcon,

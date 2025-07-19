@@ -4,7 +4,6 @@ import {
   isAuthenticatedNextjs,
   nextjsMiddlewareRedirect,
 } from "@convex-dev/auth/nextjs/server";
-import next from "next";
 
 const isPublicPage = createRouteMatcher(["/auth"]);
 
